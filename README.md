@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drvscodes
-- 👀 I’m interested in AI, IoT, Webdev
+- 👀 I’m interested in AI, ML, IoT, Webdev
 - 🌱 I’m currently learning C++, JS, Python, AWS
 - 📫 How to reach me {drvscodes@gmail.com}
 
